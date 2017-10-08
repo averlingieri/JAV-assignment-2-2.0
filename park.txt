@@ -1,0 +1,13 @@
+E, e01, bike, 2, 15.5, 45.5, 3.5, 5, aluminium, mountain_bike, true, false, AB432CZ
+E, e01, bike, 2, 15.5, 45.5, 3.5, 5, aluminium, mountain_bike, true, false, AB432CA
+E, e02, car, 5, 455.5, 125.0 , 14.5, 5, TR548LK, 95.5, 95, 5, true, 4*4
+E, e03, bus, 9, 685.5, 135.0 , 10.5, 5, LO555RF, 85.9, 75, electric
+E, e04, truck, 3, 145.5, 155.0 , 11.5, 5, UY585UY, 105.6, 115, diesel, 488.5, true
+E, e02, car, 5, 785.5, 95.0 , 6.5, 5, LO455LO, 75.6, 85, 5, true, electric
+E, e05, truck, 2, 225.5, 145.0 , 15.5, 5, TR875AW, 55.0, 75, diesel, 755.0, true
+L, l04, TR875AW
+L, l04, UY585UY
+L, l02, LO455LO
+L, l01, AB432CZ
+L, l02, TR548LK
+L, l03, LO555RF
